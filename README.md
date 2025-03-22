@@ -1,4 +1,4 @@
-#PROJERO DE DESENVOLVIMENTO EM JAVASCRIPT 
+# PROJERO DE DESENVOLVIMENTO EM JAVASCRIPT 
 
 Este jogo foi desenvovido usando javascript, visando demonstrar minhas habilidade em programação;
 
